@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  margin: auto;
+  background-color: aquamarine;
+}
+.cont{
+  margin: auto;
+  background-color: brown;
+  width: 100px;
+  height: 50px;
+}
+#num1-el{
+  line-height: 50px;
+  border-radius: 50%;
+  border: 2px solid orangered;
+  
+  background-color: black;
+  color: white;
+  
+}
+#num2-el{
+  border-bottom: 3px solid black;
+  line-height: 50px;
+}
